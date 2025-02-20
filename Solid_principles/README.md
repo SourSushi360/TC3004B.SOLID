@@ -1,1 +1,1 @@
-![Diagrama 5.png]
+[![](/Diagrama 5.png)]

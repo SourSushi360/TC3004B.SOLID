@@ -7,6 +7,11 @@
 > David Sanchez Baez  A01798202
 
 > Andrès Daniel Martìnez A00227463
+
+> Jacob Garcia Rodriguez A01643891
+
+> Victor Javier Quintana Cisneros A01643020
+
 ### 1.- Gestión de Notificaciones 
 ![alt text](images/1.png)
 ### 2.- Sistema de Pagos

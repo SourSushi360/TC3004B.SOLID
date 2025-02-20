@@ -1,10 +1,9 @@
 """
-Sistema de Notificaciones
+Gestión de Notificaciones
 Hecho por Andrés Martínez y David Sánchez
 """
 
-from abc import ABC, abstractmethod
-
+from abc import ABC
 
 class Notification(ABC):
     def __init__(self, type):
@@ -14,7 +13,7 @@ class Notification(ABC):
         NotificationService.print_type(self.type)
 
 
-# NotificacionServicio únicamente se encarga de imprimir el contenido.
+# NotificationService únicamente se encarga de imprimir el contenido.
 class NotificationService:
     @staticmethod
     def print_type(string):

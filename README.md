@@ -25,7 +25,7 @@
 ![Deliveries](images/3.png)
 
 ### 4.- Calculadora de Descuentos
-
+![Calculator](images/4.png)
 ### 5.- Sistema de Vehículos
 
 ![Vehicles](images/5.png)

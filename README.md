@@ -10,6 +10,8 @@
 
 > Jacob Garcia Rodriguez A01643891
 
+> Jean Paul López Pándura A01637266
+
 > Victor Javier Quintana Cisneros A01643020
 
 ### 1.- Gestión de Notificaciones

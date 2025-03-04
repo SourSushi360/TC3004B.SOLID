@@ -16,18 +16,18 @@
 
 ### 1.- Gestión de Notificaciones
 
-![Notification](images/1.png)
+![Notification](Images/1.png)
 
 ### 2.- Sistema de Pagos
 
-![Payments](images/2.png)
+![Payments](Images/2.png)
 
 ### 3.- Gestión de Envíos y Seguimiento de Paquetes
 
-![Deliveries](images/3.png)
+![Deliveries](Images/3.png)
 
 ### 4.- Calculadora de Descuentos
-![Calculator](images/4.png)
+![Calculator](Images/4.png)
 ### 5.- Sistema de Vehículos
 
-![Vehicles](images/5.png)
+![Vehicles](Images/5.png)
